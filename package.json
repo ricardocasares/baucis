@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "2.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "baucis": "^1.1.1",
+    "baucis-swagger": "^1.1.1",
+    "express": "^4.12.3",
+    "mongoose": "^3.8.1",
+    "mongoose-slugs": "0.0.4",
+    "swagger-ui": "^2.1.8-M1"
+  }
+}
